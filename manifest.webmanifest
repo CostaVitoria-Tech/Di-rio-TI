@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Meu Diário de TI",
+  "short_name": "Diário de TI",
+  "description": "Diário de estudos de TI com atmosfera cozy witch.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#10170F",
+  "theme_color": "#10170F",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
