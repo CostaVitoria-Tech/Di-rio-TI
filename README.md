@@ -1,2 +1,2 @@
-# Di-rio-TI
+# Diario-TI
 Rotina de estudos 
